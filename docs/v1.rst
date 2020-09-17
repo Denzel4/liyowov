@@ -1,0 +1,117 @@
+v1 package
+==========
+
+Submodules
+----------
+
+v1.agent module
+---------------
+
+.. automodule:: v1.agent
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+v1.annotation module
+--------------------
+
+.. automodule:: v1.annotation
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+v1.attribute module
+-------------------
+
+.. automodule:: v1.attribute
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+v1.auth module
+--------------
+
+.. automodule:: v1.auth
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+v1.camera module
+----------------
+
+.. automodule:: v1.camera
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+v1.category module
+------------------
+
+.. automodule:: v1.category
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+v1.dataset module
+-----------------
+
+.. automodule:: v1.dataset
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+v1.errors module
+----------------
+
+.. automodule:: v1.errors
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+v1.image module
+---------------
+
+.. automodule:: v1.image
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+v1.inference module
+-------------------
+
+.. automodule:: v1.inference
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+v1.models module
+----------------
+
+.. automodule:: v1.models
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+v1.monitoring module
+--------------------
+
+.. automodule:: v1.monitoring
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+v1.user module
+--------------
+
+.. automodule:: v1.user
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: v1
+   :members:
+   :undoc-members:
+   :show-inheritance:
